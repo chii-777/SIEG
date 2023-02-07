@@ -1,0 +1,6 @@
+ngrok config add-authtoken 2L6ExjVcugKwTtRYl7eqRJsTpZ1_6AFuGHHz5vFcqCJ9QmJjp
+
+
+
+
+tskill /A ngrok
